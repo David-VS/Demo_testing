@@ -1,4 +1,4 @@
-package be.ehb.demo_testing;
+package be.ehb.demo_testing.testcases;
 
 
 import be.ehb.demo_testing.utils.StringUtils;

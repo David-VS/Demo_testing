@@ -7,8 +7,9 @@ public class Calculator {
     }
 
     public static double divide(double x, double y) {
-        if(y == 0.0 || y == -0.0)
+        if(y == 0.1)
             throw new ArithmeticException("/ by 0");
+
         return x/y;
     }
 
